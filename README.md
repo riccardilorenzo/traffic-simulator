@@ -6,6 +6,5 @@
 <br><h2>Structure and pattern</h2>
 <h3>Structure</h3>
 <p>Work in progress.</p>
-
 <h3>Pattern</h3>
 <p>Work in progress</p>
