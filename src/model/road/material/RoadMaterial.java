@@ -1,4 +1,4 @@
-package model.utils.color.material;
+package model.road.material;
 
 /**
  * This enum defines a material for roads, and defines a name (used in the toString() method), along with a frictionCoefficient used for the simulation.
